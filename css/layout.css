@@ -36,25 +36,15 @@
 		margin: 0 1% 20px 1%;
 	}
 
-	.colbottom_right {
+	.col_right {
 		float: right;
 		width: 32.6%;
 		margin: 0 0 20px; 
 	}
 
-	.col2_left {
+	.colmid_left {
 		float: left;
 		width: 66.4%;
 		margin: 0 1% 20px 0;
 	}
 
-	.col2_right {
-		float: right;
-		width: 66.4%;
-		margin: 0 0 20px 1%;
-	}
-
-	.col3 {
-		margin: 0 0 20px;
-		clear: both;
-	}
