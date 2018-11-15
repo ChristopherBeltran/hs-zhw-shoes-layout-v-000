@@ -24,19 +24,19 @@
 
 /* Positioning Classes */
 
-.col1_left {
+.colbottom_left {
 		float: left;
 		width: 32.6%;
 		margin: 0 0 20px;
 	}
 
-	.col1_mid {
+	.colbottom_mid {
 		float: left;
 		width: 32.6%;
 		margin: 0 1% 20px 1%;
 	}
 
-	.col1_right {
+	.colbottom_right {
 		float: right;
 		width: 32.6%;
 		margin: 0 0 20px; 
